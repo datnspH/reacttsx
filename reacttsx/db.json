@@ -1,0 +1,55 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "product",
+      "image": "https://picsum.photos/150/150 ",
+      "price": "40000",
+      "description": "product",
+      "categoryId": "1"
+    },
+    {
+      "id": 2,
+      "name": "product2",
+      "price": "70000",
+      "image": "https://picsum.photos/150/150 ",
+      "description": "productjjjj",
+      "categoryId": "1"
+    },
+    {
+      "id": 3,
+      "name": "product3",
+      "image": "https://picsum.photos/150/150 ",
+      "price": "50000",
+      "description": "product3",
+      "categoryId": 3
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "categoryname": "category1"
+    },
+    {
+      "id": 2,
+      "categoryname": "category2"
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "name": "datns123",
+      "password": 111111
+    },
+    {
+      "id": 2,
+      "name": "nsdat",
+      "password": 123456
+    },
+    {
+      "name": "dat",
+      "password": "dat12345",
+      "id": 3
+    }
+  ]
+}
